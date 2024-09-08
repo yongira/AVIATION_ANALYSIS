@@ -52,9 +52,11 @@ Cruise Accidents: While generally considered a stable phase, cruise accidents ar
 Maneuvering: BELL shows a significant number of accidents during maneuvering, indicating a potential area for safety improvements.
 ## NEXT STEPS
 More data could allow for further analyses and yield additional insights:
-    - Focus on filtering by different types of aircraft (e.g., small single-engine planes, multi-engine planes, commercial airliners, jets, helicopters). The objective would be to identify which aircraft types have the fewest accidents or the lowest accident severity (e.g., number of fatalities or injuries).
-    - Separate the data by commercial and private operations to compare risk profiles. This would compare the safety records of aircraft types used in private enterprises versus commercial operations. Commercial operations might have stricter regulations and maintenance practices.
-    - Include the aircraft age at the time of the accident, so as to determine if older aircraft models are more prone to accidents, which might influence decisions on purchasing newer aircraft.
+- Focus on filtering by different types of aircraft (e.g., small single-engine planes, multi-engine planes, commercial airliners, jets, helicopters). The objective would be to identify which aircraft types have the fewest accidents or the lowest accident severity (e.g., number of fatalities or injuries).
+  
+- Separate the data by commercial and private operations to compare risk profiles. This would compare the safety records of aircraft types used in private enterprises versus commercial operations. Commercial operations might have stricter regulations and maintenance practices.
+  
+- Include the aircraft age at the time of the accident, so as to determine if older aircraft models are more prone to accidents, which might influence decisions on purchasing newer aircraft.
     
 ## FOR MORE INFORMATION
 See the full analysis in the **Jupyter Notebook** or review this **presentation**.
