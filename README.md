@@ -31,7 +31,8 @@ Accident Distribution: the bargraph shows that CESSNA has the highest number of 
 
 ![image](https://github.com/user-attachments/assets/35393033-9012-42c7-a096-03c8bdfa8092)
 
-We get to assess which aircraft make handles poor weather conditions better, especially if operations will involve flights in variable weather regions. We focus on the total number of accidents under different weather conditions categorised as :IMC, VMC, and UNK/Unk. 
+We get to assess which aircraft make handles poor weather conditions better, especially if operations will involve flights in variable weather regions. We focus on the total number of[AVIATION BUSINESS ANALYSIS.pptx](https://github.com/user-attachments/files/16923352/AVIATION.BUSINESS.ANALYSIS.pptx)
+ accidents under different weather conditions categorised as :IMC, VMC, and UNK/Unk. 
 
 ![image](https://github.com/user-attachments/assets/893b8669-62ce-43f0-a30f-28a2639e09d6)
 
