@@ -22,9 +22,9 @@ Sometimes the knowledge that a value is missing can itself be informative for us
 
 ### Answering Identified Questions
 We will answer the following questions with our dataset using Python.
-    i). Filter aircraft makes and analyze there accident rates and severity.
-    ii). Compare accidents by aircraft Make in relation to Broad phase of flight.
-    iii). Assess which aircraft types handle poor weather conditions better, especially if your operations will involve flights in variable weather regions.
+i). Filter aircraft makes and analyze there accident rates and severity.
+ii). Compare accidents by aircraft Make in relation to Broad phase of flight.
+iii). Assess which aircraft types handle poor weather conditions better, especially if your operations will involve flights in variable weather regions.
     
 ## RESULTS
 Accident Distribution: the bargraph shows that CESSNA has the highest number of accidents (27,149), significantly more than any other make, followed by PIPER (14,870) and BEECH (5,372). BELL and BOEING have relatively lower accident counts, with BELL having the lowest.
